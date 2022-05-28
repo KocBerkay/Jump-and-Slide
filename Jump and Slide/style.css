@@ -1,0 +1,23 @@
+.character {
+    background-color: red;
+    height: 70px;
+    width: 40px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.character-slide-right {
+    background-color: yellow;
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.character-slide-left {
+    background-color: blue;
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    bottom: 0px;
+}
